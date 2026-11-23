@@ -9,7 +9,7 @@ The central goal is to dig deep into Transformer concepts, understand their math
 
 ## Our Approach
 
-![Deep Transformers: Top-Down Exploration](Images/top-down-exploration.png)
+![Deep Transformers: Top-Down Exploration](Images/top-down_exploration.png)
 
 ## Areas of Exploration
 
